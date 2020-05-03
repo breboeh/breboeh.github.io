@@ -221,42 +221,42 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_2465 = function() {
+(lib.CachedBmp_2479 = function() {
 	this.initialize(ss["OfficialAnimationDocument_atlas_27"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2463 = function() {
+(lib.CachedBmp_2477 = function() {
 	this.initialize(ss["OfficialAnimationDocument_atlas_26"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2464 = function() {
+(lib.CachedBmp_2478 = function() {
 	this.initialize(ss["OfficialAnimationDocument_atlas_22"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2461 = function() {
+(lib.CachedBmp_2475 = function() {
 	this.initialize(ss["OfficialAnimationDocument_atlas_20"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2460 = function() {
+(lib.CachedBmp_2474 = function() {
 	this.initialize(ss["OfficialAnimationDocument_atlas_16"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2459 = function() {
+(lib.CachedBmp_2473 = function() {
 	this.initialize(ss["OfficialAnimationDocument_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
@@ -10392,25 +10392,25 @@ p.nominalBounds = new cjs.Rectangle(0,0,242,87.5);
 	this.instance_6 = new lib.CachedBmp_2403();
 	this.instance_6.setTransform(0,0,0.5,0.5);
 
-	this.instance_7 = new lib.CachedBmp_2465();
+	this.instance_7 = new lib.CachedBmp_2479();
 	this.instance_7.setTransform(0,501.5,0.5,0.5);
 
-	this.instance_8 = new lib.CachedBmp_2464();
+	this.instance_8 = new lib.CachedBmp_2478();
 	this.instance_8.setTransform(0,461.4,0.5,0.5);
 
-	this.instance_9 = new lib.CachedBmp_2463();
+	this.instance_9 = new lib.CachedBmp_2477();
 	this.instance_9.setTransform(76.5,591.7,0.5,0.5);
 
-	this.instance_10 = new lib.CachedBmp_2464();
+	this.instance_10 = new lib.CachedBmp_2478();
 	this.instance_10.setTransform(0,455.4,0.5,0.5);
 
-	this.instance_11 = new lib.CachedBmp_2461();
+	this.instance_11 = new lib.CachedBmp_2475();
 	this.instance_11.setTransform(0,447.35,0.5,0.5);
 
-	this.instance_12 = new lib.CachedBmp_2460();
+	this.instance_12 = new lib.CachedBmp_2474();
 	this.instance_12.setTransform(0,483.05,0.5,0.5);
 
-	this.instance_13 = new lib.CachedBmp_2459();
+	this.instance_13 = new lib.CachedBmp_2473();
 	this.instance_13.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7}]},89).to({state:[]},1).wait(1));
